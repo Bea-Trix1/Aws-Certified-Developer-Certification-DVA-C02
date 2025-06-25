@@ -20,6 +20,7 @@
 
         - Exemplo: Escrever em uma instância EC2
         - Exemplo: Listar bancos de dados
+  
 - **Políticas**: Definem as permissões dos usuários
   
         - Princípio de confiança **zero**
